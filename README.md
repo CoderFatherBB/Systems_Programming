@@ -1,61 +1,38 @@
 <div align="center">
-  <h1 align="center">Systems_Programming</h1>
+  <h1>Systems Programming</h1>
+  <p><strong>Assembler passes, assembly-to-machine-code conversion, and a C compiler project prototype.</strong></p>
   <p align="center">
-    <strong>Systems programming concepts and low-level engineering.</strong>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/github/license/CoderFatherBB/Systems_Programming?style=flat-square&color=007ec6" alt="License">
-    <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Systems_Programming?style=flat-square&color=007ec6" alt="Repo Size">
-    <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Systems_Programming?style=flat-square&color=007ec6" alt="Last Commit">
-  </p>
+  <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Systems_Programming?style=flat-square&color=007ec6" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Systems_Programming?style=flat-square&color=007ec6" alt="Last Commit">
+</p>
 </div>
 
----
+## About
 
-## 📖 Overview
+This repository collects systems programming assignments and experiments. It includes assembler pass work in Java, assembly-to-machine-code conversion notebooks, symbol/literal/machine opcode tables, and a Python-based C compiler project prototype.
 
-Welcome to the **Systems_Programming** repository. Systems programming concepts and low-level engineering.
+## Repository Map
+
+- `ASM_to_MachineCode_Py/`: notebooks and tables for assembly conversion.
+- `ASM_Pass1_JAVA/`: Java implementation pieces for assembler pass 1.
+- `Project_C_Compiler_Py/`: compiler project files, GUI experiments, input files, and phase PDFs.
 
 
+## Getting Started
 
----
+Clone the repository:
 
-## 🚀 Getting Started
+```bash
+git clone https://github.com/CoderFatherBB/Systems_Programming.git
+cd Systems_Programming
+```
 
-### Prerequisites
+Open the folder or notebook you want to explore. Most directories are self-contained, so start from the local `README.md`, source file, notebook, or project folder for that topic.
 
-Make sure you have the necessary environment setup to run or build the project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
 
-### Installation & Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CoderFatherBB/Systems_Programming.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Systems_Programming
-   ```
-3. Run or execute the relevant files as per the language standards.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/CoderFatherBB/Systems_Programming/issues).
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
